@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 # Electronic Health Record Manager
 
 Implementation of web based software for handling electronic health records using Flask, html, CSS , bootstrap and mongodb to show high level implementation of blockchain.
